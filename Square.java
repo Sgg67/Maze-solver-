@@ -1,4 +1,4 @@
-// Author: Proffesor: Marina Barsky
+// Author: Profesor: Marina Barsky
 
 package ass2;
 
