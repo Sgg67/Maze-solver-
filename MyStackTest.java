@@ -1,3 +1,5 @@
+// Author: Profesor Marina Barsky
+
 package ass2;
 
 import static org.junit.jupiter.api.Assertions.*;
