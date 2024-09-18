@@ -1,3 +1,5 @@
+// Authors: Sage Yanoff and Hamza Al Elbousi
+
 package ass2;
 
 public class MazeSolverStack extends MazeSolver {
