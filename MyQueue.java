@@ -1,3 +1,5 @@
+// Author: Sage Yanoff
+
 package ass2;
 
 import java.util.NoSuchElementException;
