@@ -1,3 +1,5 @@
+// Author: Proffesor Marina Barsky
+
 package ass2;
 
 /**
